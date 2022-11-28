@@ -1,0 +1,58 @@
+.container{
+    background-color: rgb(108, 123, 136);
+    margin-top: 2px;
+    min-height: 50px;
+    width: 1520px;
+    height: 200px;
+    text-align: center;
+    overflow: hidden;    
+    
+}
+#bienvenidos{
+    text-align: center;
+    min-height: 50px;
+    background-color: white;
+    margin-bottom: 43px
+}
+#iniciarsesion{
+    text-align: left;
+}
+.diviniciarsesion{
+    margin-left: 220px;
+    border: 2px solid black;
+    float:left;
+    height: 290px;
+    width: 400px;
+    background-color: rgb(245, 245, 245);
+}
+#registro{
+    text-align: left;
+}
+.divregistro{
+    margin-left: 300px;
+    margin-bottom: 45px;
+    float:left;
+    border: 2px solid black;
+    height: 290px;
+    width: 400px;
+    background-color: rgb(245, 245, 245);
+    
+}
+
+.barra-footer{
+    
+    margin-top:0px;
+    margin-bottom:0px;
+    background-color: rgb(108, 123, 136);
+    width: 1520px;
+    height: 50px;
+    font-style: italic;
+    font-size: large;
+    float:left;
+    vertical-align: middle;
+    align-items:center;
+    line-height: 50px;
+    text-align: center;
+    color:rgb(3, 3, 91)
+       
+}
